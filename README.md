@@ -47,4 +47,4 @@ To edit a customer, send a PUT request and input the customer information and in
 To delete a customer, send a DELETE request and include the customer ID:
 ![image](https://user-images.githubusercontent.com/32580031/197344138-f215dc82-47ad-4150-af68-7db85c3140cd.png)
 
-If you have any doubts, fell free to reach me through my personal [e-mail](ricardo_morello@hotmail.com)!
+If you have any doubts, fell free to reach me through my personal e-mail, ricardo_morello@hotmail.com
